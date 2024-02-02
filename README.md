@@ -10,6 +10,12 @@ This project was developed by Sheik Riyas H.
 - **Email:** sheikriyas92@gmail.com
 - **GitHub:** https://github.com/riyashyder
 
+Output:
+
+https://github.com/riyashyder/kjbnlabstaskfinal/assets/99108924/b442c86e-630e-4aa9-a7ae-09349434667f
+
+
+
 ## Getting Started
 
 To get started with Flutter development, follow these steps:
