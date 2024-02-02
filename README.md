@@ -22,7 +22,7 @@ To get started with Flutter development, follow these steps:
 
 3. **Clone the Repository:**
    ```bash
-   git clone https://github.com/riyashyder/kjbnlabs_task.git
+   git clone https://github.com/riyashyder/kjbnlabstaskfinal.git
 
 
 Navigate to the project directory: cd kjbnlabs_task
